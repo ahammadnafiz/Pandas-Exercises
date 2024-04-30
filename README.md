@@ -1,5 +1,3 @@
-To create a README file for your Pandas-Exercise repository, you'll want to provide useful information about the purpose of the repository, how to use it, and any other relevant details. Below is an example template for a README.md file tailored to a Pandas exercise repository:
-
 # Pandas Exercise
 
 This repository contains exercises and examples for practising data manipulation and analysis using the Pandas library in Python.
